@@ -5,12 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6be437b0-2899-475c-899e-38b079c67a19" name="Default Changelist" comment="hello github">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/lv/lu/finalwork/ProductAccountingApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/lv/lu/finalwork/config/AppConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/lv/lu/finalwork/model/ItemNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/lv/lu/finalwork/model/ProductValidationException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/lv/lu/finalwork/model/repository/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/lv/lu/finalwork/model/repository/ProductCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/lv/lu/finalwork/model/ui/ProductData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/lv/lu/finalwork/model/ui/ProductInputData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/lv/lu/finalwork/repository/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/lv/lu/finalwork/repository/Repository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/lv/lu/finalwork/service/ProductMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/lv/lu/finalwork/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/lv/lu/finalwork/ui/ConsulUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/lv/lu/finalwork/validation/ProductValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/lv/lu/finalwork/App.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -22,7 +43,12 @@
       <state>
         <projects_view>
           <tree_state>
-            <expand />
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="mikus_strazdins_final_work" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
             <select />
           </tree_state>
         </projects_view>
@@ -39,7 +65,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="NewFeature" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
