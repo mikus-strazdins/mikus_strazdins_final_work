@@ -5,25 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6be437b0-2899-475c-899e-38b079c67a19" name="Default Changelist" comment="hello github">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/lv/lu/finalwork/ProductAccountingApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/lv/lu/finalwork/config/AppConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/lv/lu/finalwork/model/ItemNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/lv/lu/finalwork/model/ProductValidationException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/lv/lu/finalwork/model/repository/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/lv/lu/finalwork/model/repository/ProductCategory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/lv/lu/finalwork/model/ui/ProductData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/lv/lu/finalwork/model/ui/ProductInputData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/lv/lu/finalwork/repository/ProductRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/lv/lu/finalwork/repository/Repository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/lv/lu/finalwork/service/ProductMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/lv/lu/finalwork/service/ProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/lv/lu/finalwork/ui/ConsulUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/lv/lu/finalwork/validation/ProductValidator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.8.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.3/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/lv/lu/finalwork/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +66,26 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
+  <component name="RunManager">
+    <configuration name="ProductAccountingApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lv.lu.finalwork.ProductAccountingApplication" />
+      <module name="mikus_strazdins_final_work.app.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lv.lu.finalwork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ProductAccountingApplication" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -106,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617300194908</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="hello github">
+      <created>1619714402768</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1619714402768</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
